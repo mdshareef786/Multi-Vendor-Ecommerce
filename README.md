@@ -487,10 +487,5 @@ Failed orders cannot be shipped or delivered.
 
 # 👨‍💻 Author
 
-**Rakesh Reddy**
-
-**Backend:** FastAPI, PostgreSQL, SQLAlchemy
-
-**Frontend:** React, Tailwind CSS
-
-**Project Type:** Full-Stack Multi-Vendor E-commerce Platform
+**Syed Mahammad Shareef**
+Python Developer
